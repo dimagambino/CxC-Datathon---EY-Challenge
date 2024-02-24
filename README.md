@@ -1,4 +1,5 @@
-### Read our project report: https://docs.google.com/document/d/1eFzNyjJyPh0dFyM5_CccsYhqr_skbkW8qy0jJp6nc-w/edit?usp=sharing
+### Read our project report: 
+https://docs.google.com/document/d/1ZdPZS0hW_G7lqOdhlliot5Fb2v3srvZS5gsevmsfGfA/edit?usp=sharing
 
 ### Check out our devpost submission & overview video: 
 https://devpost.com/software/him-6nj2p1?ref_content=user-portfolio&ref_feature=in_progress
